@@ -4,27 +4,3 @@ dfff
 dddd
 ddd
 
-<<<<<<< .mine
-fffff
-
-<<<<<<< .mine
-我的世界
-
-ddd
-fffff
-
-
-
-
-
-=======
-我的世界
-
-=======
-fffff
-
-我的世界
-
->>>>>>> .theirs
-ddd
->>>>>>> .theirs
