@@ -4,6 +4,15 @@ dfff
 dddd
 ddd
 
+<<<<<<< .mine
 fffff
 
 我的世界
+
+=======
+fffff
+
+我的世界
+
+>>>>>>> .theirs
+ddd
